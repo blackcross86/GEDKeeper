@@ -4,7 +4,7 @@
 
 Name:		gedkeeper
 Version:	3.2.1
-Release:	1
+Release:	1%{dist}
 Summary:	%{summary}
 License:	GPLv3
 Group:		Applications/Editors
